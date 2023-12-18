@@ -11,6 +11,7 @@
 
 - [Highlight.js themes](built/highlightjs/themes)
 - [iTerm2 itermcolors](built/iterm2/itermcolors)
+- [JetBrains colors](built/jetbrains/colors/)
 - [Styles](built/styles)
   - [CSS classes](built/styles/css)
   - [CSS custom properties](built/styles/css-variables)
