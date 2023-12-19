@@ -1,6 +1,6 @@
 # Base16 Measured
 
-[Base16](https://github.com/chriskempson/base16) colour schemes from [Measured](https://measured.co), with accessible colour contrast [(WCAG conformant](https://www.w3.org/TR/WCAG22/#contrast-minimum)).
+[Base16](https://github.com/chriskempson/base16) colour schemes from [Measured](https://measured.co), with accessible colour contrast ([WCAG conformant](https://www.w3.org/TR/WCAG22/#contrast-minimum)).
 
 ## Previews
 
