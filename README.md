@@ -2,6 +2,8 @@
 
 [Base16](https://github.com/chriskempson/base16) colour schemes from [Measured](https://measured.co), with accessible colour contrast ([WCAG conformant](https://www.w3.org/TR/WCAG22/#contrast-minimum)).
 
+Read [Accessible syntax highlighting colour schemes for developers](https://measured.co/blog/accessible-syntax-highlighting-colour-schemes-for-developers) for more details.
+
 ## Previews
 
 ![Base16 Measured Dark scheme preview](measured-dark.png)
