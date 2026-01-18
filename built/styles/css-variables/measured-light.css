@@ -1,20 +1,20 @@
 /* Measured Light by Measured (https://measured.co) */
 
 :root {
-  --base00: #fdf9f5;
-  --base01: #f9f5f1;
-  --base02: #ffeada;
-  --base03: #5a5a5a;
-  --base04: #404040;
-  --base05: #292929;
-  --base06: #181818;
-  --base07: #000000;
-  --base08: #ac1f35;
-  --base09: #ad5601;
-  --base0A: #645a00;
-  --base0B: #0c680c;
-  --base0C: #01716f;
+  --base00: #fef4e8;
+  --base01: #ffe9d4;
+  --base02: #ffdfc1;
+  --base03: #656667;
+  --base04: #434444;
+  --base05: #232424;
+  --base06: #191a1a;
+  --base07: #0e0f10;
+  --base08: #b40d05;
+  --base09: #8e4501;
+  --base0A: #6a5801;
+  --base0B: #336502;
+  --base0C: #03636b;
   --base0D: #0158ad;
-  --base0E: #6645c2;
+  --base0E: #3c01ad;
   --base0F: #a81a66;
 }
